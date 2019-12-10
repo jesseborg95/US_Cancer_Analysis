@@ -1,0 +1,11 @@
+CancerType,Year,Race,Sex,Rate,CaseCount,Population
+All Cancer Sites Combined,2016,American Indian/Alaska Native,Male,281.9,4691,2323356
+All Cancer Sites Combined,2016,Asian/Pacific Islander,Male,278,24112,9903590
+All Cancer Sites Combined,2016,Black,Male,499.8,91669,21764762
+All Cancer Sites Combined,2016,Hispanic,Male,353.8,62833,29166971
+All Cancer Sites Combined,2016,White,Male,466.1,691841,125252109
+All Cancer Sites Combined,2016,American Indian/Alaska Native,Female,272.6,5292,2306878
+All Cancer Sites Combined,2016,Asian/Pacific Islander,Female,279.8,30919,10767196
+All Cancer Sites Combined,2016,Black,Female,388.5,91474,23597205
+All Cancer Sites Combined,2016,Hispanic,Female,327.5,72222,28559246
+All Cancer Sites Combined,2016,White,Female,418.5,684144,127490839
