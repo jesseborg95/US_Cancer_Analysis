@@ -1,0 +1,1191 @@
+Sex,Race/Ethnicity,Age,Year,"Age-adjusted (AA) Rate per 100,000",AA Rate Lower Confidence Interval,AA Rate Upper Confidence Interval,Trend Year Range,Annual Percent Change (APC) (%),APC Lower Confidence Interval (%),APC Upper Confidence Interval (%),Trend Direction,Type
+Female,All Races (includes Hispanic),All Ages,2000,8.8903,8.7433,9.0392,2000-2004,-0.3117,-1.2491,0.6346,Stable,Ovary
+Female,All Races (includes Hispanic),All Ages,2001,9.0029,8.8558,9.1518,2004-2016,-2.3102,-2.4839,-2.1361,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),All Ages,2002,9.0363,8.89,9.1844,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2003,8.8676,8.7239,9.0131,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2004,8.7842,8.6421,8.9282,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2005,8.6613,8.5213,8.8031,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2006,8.5649,8.4267,8.705,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2007,8.253,8.1185,8.3892,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2008,7.9768,7.8454,8.1098,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2009,7.8509,7.7217,7.9817,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2010,7.8,7.672,7.9296,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2011,7.5356,7.4108,7.6621,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2012,7.3971,7.2747,7.5212,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2013,7.1983,7.0786,7.3196,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2014,7.0183,6.9011,7.1371,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2015,6.7378,6.6241,6.8532,,,,,,Ovary
+Female,All Races (includes Hispanic),All Ages,2016,6.7621,6.649,6.8768,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2000,1.1883,1.1224,1.2571,2000-2016,-2.2558,-2.6482,-1.8619,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2001,1.1654,1.1006,1.2331,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2002,1.2342,1.1678,1.3033,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2003,1.1305,1.0672,1.1965,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2004,1.1515,1.0878,1.218,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2005,1.0676,1.0065,1.1314,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2006,1.0582,0.9973,1.1218,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2007,0.9455,0.8879,1.0058,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2008,0.9773,0.9184,1.039,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2009,0.9545,0.8963,1.0155,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2010,0.9714,0.9125,1.0332,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2011,0.9341,0.8758,0.9952,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2012,0.9193,0.8614,0.98,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2013,0.8674,0.811,0.9268,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2014,0.9129,0.8546,0.9742,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2015,0.8551,0.7987,0.9145,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 50,2016,0.8807,0.8234,0.9409,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2000,15.6275,15.1073,16.161,2000-2002,1.8382,-5.0665,9.2452,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2001,16.0908,15.5714,16.6231,2002-2016,-2.749,-3.0541,-2.4429,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2002,16.076,15.5673,16.5972,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2003,15.8833,15.3877,16.3908,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2004,14.9477,14.4758,15.431,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2005,15.5221,15.0501,16.0052,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2006,14.9436,14.488,15.4099,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2007,13.953,13.5218,14.3944,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2008,13.3402,12.9246,13.7659,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2009,13.6514,13.2377,14.0748,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2010,12.9068,12.511,13.312,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2011,12.6065,12.2202,13.0021,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2012,12.4943,12.1116,12.8861,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2013,11.928,11.5556,12.3094,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2014,11.518,11.1547,11.8902,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2015,11.1415,10.7863,11.5054,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 50-64,2016,11.2326,10.8766,11.5973,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2000,44.9955,44.0886,45.9163,2000-2006,-0.518,-1.0815,0.0487,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2001,45.4676,44.5575,46.3915,2006-2016,-2.3045,-2.5624,-2.0458,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2002,45.3561,44.449,46.277,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2003,44.8436,43.9443,45.7565,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2004,45.1741,44.2728,46.089,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2005,44.0003,43.1147,44.8995,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2006,43.9781,43.0965,44.8732,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2007,43.3304,42.4608,44.2133,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2008,41.6898,40.8429,42.5498,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2009,40.4549,39.6262,41.2965,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2010,40.8389,40.0111,41.6795,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2011,39.3169,38.5117,40.1346,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2012,38.4397,37.6544,39.2371,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2013,37.8351,37.0659,38.6161,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2014,36.6373,35.8906,37.3955,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2015,35.1954,34.472,35.9301,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65+,2016,35.1329,34.4187,35.8582,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,All Races (includes Hispanic),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2000,0.5332,0.4714,0.6009,2000-2006,-3.8385,-6.6914,-0.8984,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2001,0.5506,0.4875,0.6197,2006-2016,-0.2449,-1.6975,1.2291,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2002,0.5742,0.5093,0.645,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2003,0.5041,0.443,0.5712,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2004,0.5181,0.4559,0.5863,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2005,0.4289,0.3724,0.4915,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2006,0.4518,0.3937,0.5159,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2007,0.4282,0.372,0.4905,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2008,0.4592,0.4006,0.5238,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2009,0.4583,0.3999,0.5227,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2010,0.4449,0.3874,0.5084,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2011,0.4741,0.4138,0.5405,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2012,0.4147,0.3589,0.4765,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2013,0.4181,0.362,0.4802,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2014,0.4639,0.4052,0.5285,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2015,0.4311,0.3752,0.4927,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 15-39,2016,0.4482,0.3917,0.5105,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2000,9.9127,9.6204,10.2116,2000-2002,1.3706,-4.9996,8.168,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2001,10.0665,9.7763,10.3631,2002-2016,-2.7172,-3.0094,-2.4241,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2002,10.1904,9.9035,10.4836,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2003,9.9399,9.6614,10.2244,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2004,9.5073,9.239,9.7816,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2005,9.6928,9.426,9.9652,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2006,9.3536,9.0948,9.6179,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2007,8.6356,8.3909,8.8857,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2008,8.3658,8.1268,8.6101,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2009,8.4636,8.2265,8.706,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2010,8.1569,7.9258,8.3931,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2011,7.881,7.656,8.1113,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2012,7.8621,7.6374,8.092,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2013,7.4577,7.2395,7.681,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2014,7.3149,7.0985,7.5365,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2015,7.0204,6.8093,7.2366,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 40-64,2016,7.1133,6.9006,7.3311,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2000,35.6751,34.5191,36.86,2000-2004,0.5243,-0.8307,1.8979,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2001,36.4443,35.2738,37.6436,2004-2016,-2.4718,-2.7141,-2.229,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2002,35.9241,34.7602,37.117,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2003,35.5472,34.3904,36.733,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2004,36.6181,35.4462,37.819,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2005,35.1629,34.0179,36.3365,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2006,34.7361,33.6051,35.8953,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2007,34.4007,33.2863,35.5427,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2008,33.1095,32.0346,34.2112,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2009,32.2616,31.2156,33.3336,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2010,32.3076,31.2734,33.3671,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2011,30.5642,29.5731,31.5799,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2012,29.5253,28.5788,30.4952,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2013,29.4616,28.5368,30.4088,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2014,28.4369,27.5495,29.3455,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2015,27.1063,26.2565,27.9765,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 65-74,2016,27.1553,26.3195,28.0108,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2000,55.1941,53.7828,56.6328,2000-2006,-0.5487,-1.1464,0.0526,Stable,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2001,55.341,53.935,56.7742,2006-2016,-2.0455,-2.3264,-1.7638,Trend is Falling,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2002,55.6768,54.2727,57.1078,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2003,55.0157,53.6268,56.4314,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2004,54.5361,53.1568,55.9421,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2005,53.6705,52.3083,55.059,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2006,54.091,52.7261,55.4821,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2007,53.1015,51.754,54.4752,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2008,51.0786,49.756,52.4272,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2009,49.4202,48.1206,50.7459,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2010,50.1741,48.8655,51.5087,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2011,48.8942,47.6075,50.2067,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2012,48.1939,46.9209,49.4925,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2013,46.9974,45.7484,48.2716,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2014,45.6102,44.3887,46.8567,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2015,44.0467,42.8546,45.2633,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages 75+,2016,43.8621,42.6823,45.0661,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2002,0.0403,0.0231,0.0655,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,All Races (includes Hispanic),Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2000,4.4494,2.73,6.7523,2000-2016,-1.2447,-2.9433,0.4836,Stable,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2001,10.766,8.0722,13.9994,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2002,6.6388,4.64,9.1477,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2003,7.2314,5.1063,9.8719,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2004,6.9111,4.9355,9.3619,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2005,6.325,4.4683,8.6424,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2006,7.11,5.0809,9.6111,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2007,7.0486,5.0206,9.5465,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2008,6.2167,4.4258,8.4353,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2009,7.3148,5.4019,9.6358,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2010,6.953,5.1205,9.18,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2011,6.0059,4.3835,7.9964,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2012,6.3092,4.6236,8.3654,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2013,5.9399,4.3684,7.8594,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2014,5.3808,3.9459,7.1431,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2015,7.1808,5.5508,9.1214,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,2016,6.4441,4.8766,8.3284,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2001,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2006,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2009,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2010,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2012,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2015,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,2016,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2001,19.8696,12.1297,30.6775,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2003,14.1816,8.0975,23.0358,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2004,17.5411,10.8494,26.8258,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2006,11.8938,6.7898,19.3394,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2009,12.0203,7.2354,18.7788,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2010,12.5796,7.7859,19.239,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2011,13.2593,8.4037,19.901,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2012,10.7401,6.464,16.7716,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2013,10.9647,6.6927,16.9397,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2014,12.0291,7.6192,18.0716,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2015,15.1018,10.0985,21.7094,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,2016,8.9507,5.2893,14.1927,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2001,56.7341,38.5774,80.5359,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2002,30.1445,17.4517,48.5038,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2003,35.6946,21.6829,55.2872,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2004,27.4973,15.595,44.8458,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2005,31.8417,19.5348,49.136,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2006,40.4795,26.2373,59.6558,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2007,44.1555,29.365,63.7267,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2008,33.7057,21.4101,50.5215,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2009,41.9415,28.4706,59.6453,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2010,37.7718,25.0826,54.6074,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2011,28.2632,17.7383,42.7603,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2012,36.5942,24.6505,52.3052,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2013,31.6848,20.979,45.9535,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2014,26.8122,17.3138,39.6962,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2015,36.3997,25.6209,50.2887,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,2016,33.5383,23.1407,47.0166,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2001,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2006,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2009,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2010,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2012,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2015,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,2016,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2001,10.6508,6.6686,16.0944,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2002,8.2044,4.9334,12.8276,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2003,8.5514,5.2165,13.2014,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2004,11.3045,7.5055,16.339,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2005,6.77,4.0097,10.7117,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2006,6.5606,3.8838,10.3794,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2008,6.0594,3.5886,9.5877,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2009,6.2537,3.8191,9.6864,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2010,7.1699,4.5925,10.7025,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2011,7.6357,4.9772,11.2326,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2012,5.2993,3.1895,8.3248,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2013,6.1281,3.8294,9.3359,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2014,6.2796,4.0162,9.4157,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2015,8.4901,5.7886,12.0605,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,2016,6.5856,4.1775,9.8942,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2001,45.8811,26.1286,74.8641,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2006,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2009,40.8506,24.4883,63.9442,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2010,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2012,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2015,39.6711,25.752,58.4258,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,2016,26.7464,15.7142,42.496,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2001,68.6095,39.2083,111.4567,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2006,62.616,36.4706,100.3435,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2007,58.643,33.5096,95.1805,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2009,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2010,50.8767,29.0781,82.6213,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2012,46.6234,26.6467,75.7151,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2015,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,2016,40.97,23.8637,65.619,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2000,4.7894,4.165,5.4771,2000-2016,-0.8585,-1.4021,-0.3118,Trend is Falling,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2001,4.8718,4.2588,5.5446,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2002,5.0926,4.483,5.7585,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2003,5.0235,4.4325,5.668,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2004,4.5916,4.0504,5.1828,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2005,5.0955,4.5354,5.7034,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2006,4.9842,4.4392,5.5752,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2007,4.6185,4.1069,5.174,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2008,5.1578,4.6323,5.7246,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2009,4.5404,4.0632,5.0568,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2010,4.6972,4.2244,5.2073,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2011,4.5142,4.0663,4.9975,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2012,4.2916,3.8639,4.7533,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2013,4.5026,4.0714,4.9666,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2014,4.1655,3.7648,4.5971,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2015,4.3144,3.9193,4.7387,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,2016,4.7253,4.3221,5.1563,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2000,0.9653,0.7035,1.2922,2000-2016,0.1623,-1.266,1.6112,Stable,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2001,0.8556,0.6158,1.1576,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2002,0.9355,0.6867,1.2446,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2003,0.787,0.5642,1.0683,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2004,0.9696,0.7253,1.2697,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2005,1.0079,0.759,1.3115,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2006,0.707,0.5067,0.9602,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2007,0.7004,0.5024,0.9502,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2008,0.7994,0.5923,1.0557,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2009,0.7272,0.5318,0.9709,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2010,0.8997,0.6843,1.1617,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2011,0.9456,0.7262,1.2108,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2012,0.653,0.476,0.8749,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2013,0.8138,0.6174,1.0536,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2014,0.9756,0.7628,1.2303,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2015,0.9897,0.7769,1.2437,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,2016,0.9215,0.7207,1.1619,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2000,9.9041,7.8844,12.2854,2000-2011,-0.2302,-1.2577,0.8079,Stable,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2001,10.3309,8.3131,12.6899,2011-2014,-6.2017,-17.6591,6.8499,Stable,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2002,9.3159,7.4684,11.4813,2014-2016,13.2046,0.3698,27.6807,Trend is Rising,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2003,9.4588,7.6497,11.5659,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2004,9.4481,7.7093,11.4625,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2005,9.4847,7.7916,11.4364,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2006,10.0583,8.3623,11.997,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2007,8.9341,7.3865,10.7101,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2008,10.0591,8.4548,11.8788,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2009,8.9208,7.4572,10.588,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2010,9.4799,8.0017,11.1518,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2011,9.4657,8.0256,11.0902,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2012,9.4172,8.0004,11.0128,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2013,8.5339,7.2046,10.0369,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2014,7.545,6.3248,8.9321,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2015,8.8607,7.5579,10.3242,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,2016,10.0387,8.6678,11.5655,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2000,20.6165,16.6893,25.1948,2000-2016,-1.2817,-2.095,-0.4616,Trend is Falling,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2001,21.3901,17.5161,25.8699,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2002,23.884,19.9334,28.3953,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2003,24.0173,20.1585,28.4044,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2004,19.568,16.1861,23.4511,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2005,23.2924,19.698,27.3554,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2006,23.4535,19.898,27.4587,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2007,21.932,18.5852,25.7049,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2008,24.2966,20.8704,28.1236,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2009,21.1758,18.0875,24.6412,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2010,20.7657,17.7738,24.1165,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2011,19.0722,16.3057,22.1739,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2012,19.0435,16.3526,22.0497,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2013,20.8405,18.0943,23.8836,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2014,18.4197,15.9394,21.1758,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2015,17.9561,15.592,20.5774,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,2016,20.2001,17.7684,22.8721,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2001,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2002,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2003,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2004,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2005,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2006,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2007,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2008,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2009,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2010,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2011,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2012,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2013,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2014,0.5838,0.3691,0.8789,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2015,0.4112,0.2342,0.6692,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,2016,0.4371,0.2585,0.6928,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2000,6.4738,5.3323,7.7868,2000-2016,-0.4696,-1.1891,0.2551,Stable,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2001,6.5665,5.4412,7.8548,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2002,6.4974,5.4146,7.7328,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2003,6.0798,5.0592,7.2451,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2004,6.4814,5.4615,7.6367,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2005,6.8791,5.8527,8.0338,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2006,6.2851,5.3326,7.3592,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2007,5.8124,4.9207,6.82,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2008,6.5244,5.5993,7.5597,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2009,5.6599,4.8219,6.6029,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2010,6.3681,5.4936,7.3431,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2011,6.3861,5.5292,7.3393,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2012,5.8465,5.0442,6.7415,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2013,5.6559,4.8736,6.5289,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2014,5.3638,4.6134,6.2022,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2015,6.2483,5.4509,7.1304,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,2016,6.6367,5.8301,7.5249,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2000,18.2698,13.7938,23.7322,2000-2016,-1.3821,-2.4052,-0.3482,Trend is Falling,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2001,15.9843,11.9317,20.9738,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2002,19.2738,14.8673,24.5779,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2003,21.1546,16.6027,26.5675,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2004,16.8796,12.9332,21.6519,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2005,19.4617,15.2702,24.4455,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2006,15.3281,11.6866,19.7367,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2007,14.6934,11.2268,18.8865,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2008,15.6799,12.2313,19.8042,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2009,16.0904,12.6806,20.1402,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2010,17.0122,13.5308,21.1117,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2011,14.8172,11.7122,18.4952,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2012,14.8668,11.8362,18.4349,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2013,14.4046,11.5261,17.7827,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2014,14.4122,11.6441,17.6409,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2015,14.1219,11.4575,17.218,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,2016,17.2421,14.4002,20.4823,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2000,23.1844,16.8107,31.172,2000-2016,-1.2739,-2.6044,0.0748,Stable,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2001,27.3052,20.7018,35.3595,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2002,28.9285,22.393,36.795,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2003,27.1498,20.9758,34.578,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2004,22.5097,17.0738,29.1267,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2005,27.484,21.6794,34.3709,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2006,32.3445,26.1915,39.5122,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2007,29.8525,24.0904,36.5776,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2008,33.7251,27.7415,40.6159,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2009,26.7403,21.5816,32.7605,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2010,24.8729,20.0239,30.5393,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2011,23.728,19.1477,29.0725,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2012,23.6138,19.1642,28.783,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2013,27.8828,23.1636,33.2769,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2014,22.8047,18.6776,27.5685,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2015,22.1517,18.2368,26.6581,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,2016,23.4366,19.4891,27.9458,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2000,7.149,6.7255,7.591,2000-2016,-1.5812,-1.9781,-1.1827,Trend is Falling,Ovary
+Female,Black (includes Hispanic),All Ages,2001,7.5204,7.0902,7.9689,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2002,7.4339,7.01,7.8757,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2003,7.4646,7.0444,7.9023,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2004,7.6539,7.2327,8.0923,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2005,7.2781,6.8709,7.7021,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2006,6.851,6.4619,7.2566,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2007,6.559,6.1818,6.9524,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2008,6.6262,6.2512,7.0172,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2009,6.7522,6.3783,7.1415,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2010,6.6431,6.2769,7.0244,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2011,6.5757,6.215,6.9514,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2012,6.6379,6.2825,7.0077,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2013,5.9687,5.6355,6.3161,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2014,6.3659,6.028,6.7175,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2015,6.0124,5.6888,6.3494,,,,,,Ovary
+Female,Black (includes Hispanic),All Ages,2016,5.622,5.3162,5.9406,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2000,0.9429,0.7852,1.1219,2000-2016,-2.4197,-3.4572,-1.3711,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages < 50,2001,0.9772,0.8185,1.1567,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2002,1.0928,0.9259,1.2804,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2003,1.0609,0.8977,1.2444,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2004,1.1039,0.9388,1.2892,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2005,0.9195,0.7697,1.0893,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2006,0.9246,0.7755,1.0935,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2007,0.7549,0.6212,0.9083,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2008,0.9324,0.7818,1.1028,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2009,0.9783,0.8249,1.1514,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2010,0.9188,0.7702,1.087,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2011,0.9005,0.7522,1.0685,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2012,0.7129,0.5826,0.8628,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2013,0.7336,0.6001,0.8869,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2014,0.8193,0.6777,0.9808,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2015,0.678,0.5514,0.824,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 50,2016,0.6947,0.5652,0.844,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2000,12.3634,10.9901,13.8609,2000-2016,-1.5311,-2.0142,-1.0456,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2001,13.8584,12.4253,15.411,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2002,12.7054,11.3647,14.1605,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2003,12.8937,11.5737,14.3229,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2004,12.7072,11.4274,14.091,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2005,12.1764,10.9494,13.5031,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2006,12.2312,11.0266,13.5311,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2007,11.6174,10.4741,12.8514,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2008,10.7063,9.6337,11.8655,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2009,10.739,9.6898,11.8708,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2010,11.1829,10.1384,12.3059,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2011,10.3909,9.4049,11.4525,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2012,11.2717,10.2535,12.3638,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2013,10.3214,9.3633,11.3513,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2014,10.8582,9.8876,11.8989,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2015,10.1981,9.2674,11.1974,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 50-64,2016,10.916,9.9584,11.9414,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2000,36.4964,33.7452,39.4119,2000-2016,-1.4534,-1.9735,-0.9305,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 65+,2001,37.4652,34.6933,40.3995,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2002,37.4864,34.7255,40.4082,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2003,37.6886,34.9401,40.5957,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2004,39.1615,36.3799,42.0993,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2005,37.8736,35.1594,40.7414,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2006,34.4,31.8393,37.1116,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2007,33.7896,31.271,36.4566,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2008,34.3864,31.8749,37.0429,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2009,35.0811,32.572,37.7321,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2010,34.0323,31.5814,36.6222,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2011,34.544,32.1078,37.1155,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2012,35.0644,32.6612,37.5975,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2013,30.7793,28.5515,33.1338,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2014,32.7939,30.5464,35.1627,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2015,31.5894,29.4193,33.8768,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65+,2016,27.5523,25.5748,29.6422,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Black (includes Hispanic),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2000,0.4353,0.2956,0.6172,2000-2016,-3.2463,-5.6412,-0.7906,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2001,0.6195,0.4499,0.831,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2002,0.6194,0.4498,0.8311,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2003,0.5802,0.4159,0.7867,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2004,0.6474,0.4733,0.8634,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2005,0.3883,0.2556,0.5638,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2006,0.2962,0.1828,0.452,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2007,0.4378,0.2987,0.6181,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2008,0.522,0.3669,0.7185,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2009,0.6856,0.5077,0.9038,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2010,0.5115,0.359,0.7048,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2011,0.3797,0.2492,0.5518,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2012,0.3211,0.2025,0.4811,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2013,0.314,0.1957,0.4742,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2014,0.3851,0.2548,0.556,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2015,0.3524,0.2348,0.5074,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 15-39,2016,0.3365,0.2187,0.4929,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2000,7.8228,7.0625,8.6421,2000-2016,-1.6808,-2.103,-1.2569,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2001,8.4269,7.6479,9.2632,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2002,8.1476,7.3988,8.9511,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2003,8.2101,7.4739,8.9991,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2004,8.1422,7.4243,8.9106,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2005,7.7301,7.0426,8.4665,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2006,7.8759,7.194,8.605,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2007,7.0183,6.3892,7.693,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2008,6.8929,6.2778,7.5524,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2009,6.8125,6.2129,7.455,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2010,7.108,6.5067,7.7507,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2011,6.8274,6.2437,7.4519,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2012,6.8839,6.3075,7.4998,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2013,6.4725,5.9176,7.0667,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2014,6.8585,6.2905,7.4653,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2015,6.2346,5.7001,6.8072,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 40-64,2016,6.6473,6.0974,7.235,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2000,30.7628,27.3722,34.4573,2000-2016,-1.4377,-2.1086,-0.7622,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2001,31.0575,27.6657,34.7502,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2002,29.1701,25.8991,32.7394,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2003,30.0429,26.7445,33.6353,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2004,34.1572,30.6608,37.9429,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2005,31.661,28.3198,35.2872,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2006,26.708,23.6954,29.9976,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2007,27.732,24.6788,31.0578,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2008,28.9235,25.8526,32.2585,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2009,30.3217,27.2089,33.6922,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2010,27.6637,24.7313,30.847,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2011,27.9047,25.002,31.0511,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2012,29.363,26.4457,32.5128,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2013,24.5348,21.9426,27.3475,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2014,26.6945,24.0599,29.5377,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2015,26.0805,23.5398,28.8196,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 65-74,2016,23.4632,21.1241,25.9903,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2000,42.7701,38.4226,47.4739,2000-2014,-1.0429,-1.5932,-0.4895,Trend is Falling,Ovary
+Female,Black (includes Hispanic),Ages 75+,2001,44.4766,40.0725,49.232,2014-2016,-8.6003,-18.8764,2.9775,Stable,Ovary
+Female,Black (includes Hispanic),Ages 75+,2002,46.5862,42.1022,51.4173,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2003,46.0547,41.6277,50.8238,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2004,44.6372,40.3032,49.3096,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2005,44.6715,40.3758,49.299,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2006,42.8166,38.6397,47.3211,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2007,40.4179,36.3902,44.7682,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2008,40.364,36.3706,44.6746,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2009,40.289,36.3402,44.5486,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2010,41.001,37.0445,45.2627,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2011,41.8089,37.8642,46.0508,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2012,41.303,37.4591,45.4341,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2013,37.6121,33.9519,41.5567,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2014,39.468,35.7898,43.4205,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2015,37.6174,34.0633,41.4394,,,,,,Ovary
+Female,Black (includes Hispanic),Ages 75+,2016,32.0268,28.8108,35.5021,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Black (includes Hispanic),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,Black (includes Hispanic),Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2000,6.372,5.847,6.9274,2000-2016,-1.4998,-1.8211,-1.1776,Trend is Falling,Ovary
+Female,Hispanic (any race),All Ages,2001,6.1984,5.698,6.7273,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2002,6.1086,5.6228,6.6216,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2003,6.0688,5.5951,6.5685,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2004,6.1103,5.6477,6.5976,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2005,6.222,5.7679,6.6995,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2006,6.2453,5.7956,6.7177,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2007,5.8892,5.4678,6.3317,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2008,5.6692,5.2669,6.0917,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2009,5.7691,5.3712,6.1865,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2010,5.5307,5.1526,5.9271,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2011,5.3343,4.9711,5.7151,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2012,5.7405,5.3725,6.1252,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2013,5.3642,5.017,5.7275,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2014,5.2199,4.8877,5.5672,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2015,5.1413,4.8184,5.4788,,,,,,Ovary
+Female,Hispanic (any race),All Ages,2016,4.8811,4.5744,5.2017,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2000,0.8297,0.6609,1.0248,2000-2016,-1.1374,-1.8381,-0.4316,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages < 50,2001,0.8717,0.7037,1.0646,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2002,0.9367,0.7659,1.1313,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2003,0.9056,0.7409,1.0932,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2004,0.984,0.8169,1.1727,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2005,0.7864,0.6413,0.9523,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2006,0.7572,0.6178,0.9166,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2007,0.8868,0.7391,1.0535,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2008,0.8398,0.6974,1.0008,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2009,0.7585,0.6265,0.9083,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2010,0.8061,0.6721,0.9573,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2011,0.7615,0.6328,0.9071,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2012,0.7734,0.6455,0.9178,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2013,0.7443,0.6207,0.8839,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2014,0.8361,0.705,0.9831,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2015,0.7591,0.6368,0.8969,,,,,,Ovary
+Female,Hispanic (any race),Ages < 50,2016,0.7528,0.6323,0.8885,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2000,10.102,8.6099,11.7782,2000-2016,-1.0644,-1.6594,-0.4659,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages 50-64,2001,10.7648,9.2603,12.4435,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2002,10.0346,8.6281,11.6048,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2003,9.7433,8.3954,11.2458,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2004,9.7875,8.4732,11.2475,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2005,11.6999,10.3004,13.2361,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2006,9.7423,8.5036,11.11,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2007,9.5642,8.3768,10.8724,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2008,9.7545,8.5887,11.0341,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2009,9.7705,8.6393,11.0088,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2010,9.8203,8.7186,11.0227,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2011,8.8842,7.865,9.9989,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2012,10.1015,9.0359,11.2581,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2013,9.1054,8.118,10.1796,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2014,9.3652,8.386,10.4273,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2015,8.7063,7.7838,9.7082,,,,,,Ovary
+Female,Hispanic (any race),Ages 50-64,2016,8.7338,7.8296,9.7138,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2000,33.68,30.0971,37.5727,2000-2016,-1.7419,-2.2012,-1.2805,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages 65+,2001,31.2796,27.9275,34.9245,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2002,31.063,27.787,34.6192,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2003,31.2717,28.0588,34.7514,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2004,31.0988,27.9695,34.4822,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2005,30.845,27.8084,34.1225,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2006,33.5189,30.4125,36.8558,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2007,30.1704,27.3045,33.2553,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2008,28.4736,25.7593,31.3961,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2009,29.711,26.9954,32.6254,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2010,27.4926,24.9441,30.2302,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2011,27.3045,24.8324,29.9557,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2012,29.0058,26.515,31.6668,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2013,27.3775,25.0215,29.8948,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2014,25.4014,23.1938,27.7618,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2015,26.0023,23.8272,28.3219,,,,,,Ovary
+Female,Hispanic (any race),Ages 65+,2016,23.9469,21.907,26.1248,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Hispanic (any race),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2000,0.3483,0.222,0.5186,2000-2016,-0.0566,-1.6886,1.6026,Stable,Ovary
+Female,Hispanic (any race),Ages 15-39,2001,0.3618,0.235,0.531,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2002,0.3153,0.1992,0.4727,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2003,0.346,0.223,0.5098,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2004,0.4465,0.3081,0.6237,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2005,0.3155,0.2051,0.4629,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2006,0.3589,0.2396,0.5147,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2007,0.4723,0.3379,0.6411,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2008,0.3293,0.2184,0.4747,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2009,0.3203,0.2139,0.4598,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2010,0.33,0.2252,0.4659,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2011,0.335,0.227,0.4749,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2012,0.3478,0.2401,0.4862,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2013,0.4055,0.2889,0.5523,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2014,0.2516,0.1636,0.3693,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2015,0.4049,0.2899,0.5493,,,,,,Ovary
+Female,Hispanic (any race),Ages 15-39,2016,0.375,0.2659,0.5128,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2000,6.5397,5.7083,7.4569,2000-2016,-1.1184,-1.6216,-0.6127,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages 40-64,2001,6.95,6.1146,7.8664,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2002,6.7864,5.9886,7.66,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2003,6.5597,5.7959,7.3953,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2004,6.6381,5.8905,7.4537,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2005,7.2769,6.5112,8.1069,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2006,6.1908,5.5056,6.937,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2007,6.279,5.6103,7.0049,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2008,6.428,5.7692,7.1409,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2009,6.2416,5.6102,6.9243,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2010,6.3794,5.7577,7.0497,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2011,5.7956,5.2176,6.42,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2012,6.4195,5.8221,7.0615,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2013,5.7912,5.236,6.3892,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2014,6.3178,5.7485,6.9281,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2015,5.6303,5.1045,6.1958,,,,,,Ovary
+Female,Hispanic (any race),Ages 40-64,2016,5.6639,5.1466,6.2193,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2000,25.49,21.6166,29.8563,2000-2016,-1.9387,-2.3559,-1.5198,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages 65-74,2001,25.9385,22.1142,30.2346,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2002,22.2204,18.7449,26.1526,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2003,22.9557,19.4764,26.8759,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2004,23.4392,19.9794,27.3247,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2005,23.7857,20.3632,27.6179,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2006,23.4656,20.1169,27.2102,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2007,21.7493,18.6188,25.2559,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2008,23.0339,19.8634,26.5651,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2009,21.9885,18.9753,25.3435,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2010,20.905,18.017,24.122,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2011,19.8204,17.0932,22.8585,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2012,20.6311,17.9144,23.6421,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2013,19.1717,16.6168,22.0061,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2014,18.452,16.0306,21.1351,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2015,19.6972,17.261,22.3801,,,,,,Ovary
+Female,Hispanic (any race),Ages 65-74,2016,18.2931,16.003,20.8172,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2000,42.6417,36.5498,49.4616,2000-2016,-1.6273,-2.3252,-0.9244,Trend is Falling,Ovary
+Female,Hispanic (any race),Ages 75+,2001,37.1239,31.5882,43.3508,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2002,40.7388,35.1165,47.0084,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2003,40.3712,34.9091,46.4469,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2004,39.48,34.2143,45.3274,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2005,38.5693,33.5106,44.1761,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2006,44.5194,39.2175,50.3389,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2007,39.385,34.5274,44.7351,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2008,34.4258,29.9954,39.3262,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2009,38.161,33.5927,43.1769,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2010,34.7009,30.4638,39.3619,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2011,35.4938,31.3218,40.0664,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2012,38.1697,33.9381,42.7818,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2013,36.3564,32.3428,40.7303,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2014,33.0055,29.2665,37.0887,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2015,32.9014,29.2561,36.874,,,,,,Ovary
+Female,Hispanic (any race),Ages 75+,2016,30.1335,26.7197,33.8604,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Hispanic (any race),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,Hispanic (any race),Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2000,9.4241,9.2553,9.5954,2000-2005,-0.5773,-1.3801,0.2319,Stable,Ovary
+Female,Non-Hispanic White,All Ages,2001,9.506,9.3371,9.6773,2005-2016,-2.3831,-2.63,-2.1356,Trend is Falling,Ovary
+Female,Non-Hispanic White,All Ages,2002,9.5957,9.4268,9.7672,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2003,9.4081,9.2418,9.5768,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2004,9.2879,9.1233,9.4549,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2005,9.203,9.04,9.3684,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2006,9.1614,8.9993,9.326,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2007,8.8437,8.6857,9.0041,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2008,8.4824,8.3281,8.639,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2009,8.3487,8.1965,8.5032,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2010,8.2997,8.1483,8.4534,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2011,8.0242,7.876,8.1748,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2012,7.8371,7.6913,7.9853,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2013,7.7111,7.5675,7.8571,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2014,7.4536,7.3129,7.5965,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2015,7.1303,6.9935,7.2695,,,,,,Ovary
+Female,Non-Hispanic White,All Ages,2016,7.2142,7.0769,7.3538,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2000,1.2944,1.2135,1.3796,2000-2016,-2.3721,-2.7689,-1.9736,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages < 50,2001,1.25,1.1706,1.3336,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2002,1.3142,1.2327,1.3999,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2003,1.2053,1.1272,1.2875,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2004,1.1969,1.1189,1.2791,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2005,1.1507,1.0741,1.2315,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2006,1.1726,1.0946,1.2548,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2007,1.0169,0.9439,1.0942,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2008,1.0297,0.9552,1.1087,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2009,1.008,0.9341,1.0864,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2010,1.0227,0.9472,1.1027,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2011,0.9706,0.896,1.0499,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2012,1.0288,0.9514,1.1111,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2013,0.9318,0.8575,1.0109,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2014,0.9447,0.8689,1.0253,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2015,0.8957,0.8213,0.975,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 50,2016,0.9329,0.8568,1.014,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2000,16.8641,16.2514,17.4941,2000-2002,2.5314,-4.945,10.5958,Stable,Ovary
+Female,Non-Hispanic White,Ages 50-64,2001,17.1548,16.5454,17.781,2002-2016,-2.9554,-3.2947,-2.615,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 50-64,2002,17.4714,16.8674,18.0915,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2003,17.1872,16.599,17.791,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2004,16.0169,15.458,16.591,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2005,16.7452,16.1826,17.3223,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2006,16.1903,15.6447,16.7501,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2007,15.0981,14.5803,15.6297,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2008,14.3375,13.8382,14.8503,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2009,14.8093,14.308,15.3238,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2010,13.7097,13.2333,14.199,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2011,13.5845,13.1142,14.0674,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2012,13.1713,12.7089,13.6463,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2013,12.8063,12.3491,13.2761,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2014,12.1758,11.7318,12.6324,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2015,11.75,11.3148,12.1979,,,,,,Ovary
+Female,Non-Hispanic White,Ages 50-64,2016,11.6925,11.2565,12.1412,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2000,47.1445,46.1303,48.1754,2000-2006,-0.3424,-1.0761,0.3967,Stable,Ovary
+Female,Non-Hispanic White,Ages 65+,2001,47.7014,46.68,48.7396,2006-2016,-2.2029,-2.5438,-1.8609,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 65+,2002,47.6685,46.6465,48.7073,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2003,47.1448,46.1287,48.1776,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2004,47.6305,46.6079,48.6697,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2005,46.3595,45.3522,47.3834,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2006,46.5635,45.5553,47.5883,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2007,46.2365,45.2361,47.2534,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2008,44.2069,43.234,45.196,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2009,42.7135,41.7612,43.682,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2010,43.5466,42.5884,44.5208,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2011,41.8137,40.8802,42.7631,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2012,40.4904,39.5827,41.4136,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2013,40.482,39.5843,41.3948,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2014,39.1185,38.2454,40.0064,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2015,37.347,36.5015,38.2071,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65+,2016,37.8659,37.0218,38.7243,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Non-Hispanic White,Ages <15,2001,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2002,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2003,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2004,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2005,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2006,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2007,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2008,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2009,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2010,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2011,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2012,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2013,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2014,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2015,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages <15,2016,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2000,0.5815,0.5031,0.6688,2000-2016,-1.3591,-2.2458,-0.4643,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 15-39,2001,0.5716,0.493,0.6592,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2002,0.6399,0.5555,0.7336,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2003,0.5378,0.4598,0.6253,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2004,0.5184,0.4409,0.6055,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2005,0.4865,0.4109,0.5717,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2006,0.5331,0.4533,0.6226,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2007,0.4342,0.3624,0.5159,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2008,0.4993,0.4214,0.5872,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2009,0.4467,0.373,0.5306,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2010,0.4652,0.3892,0.5515,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2011,0.5369,0.4537,0.6306,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2012,0.4705,0.393,0.5584,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2013,0.4539,0.3772,0.5411,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2014,0.5374,0.4545,0.6308,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2015,0.4506,0.3757,0.5358,,,,,,Ovary
+Female,Non-Hispanic White,Ages 15-39,2016,0.4918,0.4143,0.5795,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2000,10.7238,10.3767,11.0796,2000-2002,1.6735,-5.1484,8.986,Stable,Ovary
+Female,Non-Hispanic White,Ages 40-64,2001,10.7731,10.4296,11.1251,2002-2016,-2.9152,-3.2413,-2.5881,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 40-64,2002,10.9941,10.6523,11.3442,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2003,10.722,10.3893,11.0627,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2004,10.1435,9.8234,10.4715,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2005,10.426,10.1057,10.7541,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2006,10.1415,9.8282,10.4624,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2007,9.3636,9.0659,9.6688,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2008,8.9305,8.6409,9.2276,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2009,9.177,8.8859,9.4756,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2010,8.6477,8.3654,8.9374,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2011,8.3782,8.1026,8.661,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2012,8.3862,8.1071,8.6727,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2013,8.003,7.7305,8.2831,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2014,7.6292,7.3621,7.904,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2015,7.3862,7.122,7.6581,,,,,,Ovary
+Female,Non-Hispanic White,Ages 40-64,2016,7.4115,7.1449,7.6861,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2000,37.6981,36.379,39.0528,2000-2006,-0.1721,-1.2407,0.9081,Stable,Ovary
+Female,Non-Hispanic White,Ages 65-74,2001,38.5336,37.1936,39.9096,2006-2016,-2.7475,-3.2244,-2.2682,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 65-74,2002,38.4106,37.066,39.7915,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2003,37.8664,36.5287,39.2406,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2004,38.8888,37.5322,40.2817,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2005,37.3145,35.9863,38.6792,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2006,37.704,36.3735,39.0707,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2007,37.4121,36.0976,38.7622,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2008,35.3683,34.1106,36.6604,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2009,34.1784,32.9579,35.4325,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2010,34.7645,33.5468,36.015,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2011,32.8278,31.659,34.0287,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2012,31.1371,30.0318,32.2726,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2013,31.9543,30.8571,33.0803,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2014,30.4936,29.4448,31.5702,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2015,28.675,27.6745,29.7022,,,,,,Ovary
+Female,Non-Hispanic White,Ages 65-74,2016,29.0903,28.097,30.1096,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2000,57.481,55.9294,59.0645,2000-2006,-0.4627,-1.0605,0.1387,Stable,Ovary
+Female,Non-Hispanic White,Ages 75+,2001,57.733,56.1822,59.3156,2006-2016,-1.8169,-2.1037,-1.5292,Trend is Falling,Ovary
+Female,Non-Hispanic White,Ages 75+,2002,57.7987,56.251,59.378,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2003,57.2974,55.7597,58.8666,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2004,57.1958,55.6591,58.764,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2005,56.2567,54.7347,57.8101,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2006,56.2578,54.7355,57.8115,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2007,55.8924,54.3758,57.4404,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2008,53.8782,52.3822,55.4058,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2009,52.0528,50.5779,53.5594,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2010,53.1562,51.6619,54.6823,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2011,51.6463,50.1737,53.1508,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2012,50.725,49.2642,52.2178,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2013,49.8133,48.372,51.2862,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2014,48.5561,47.138,50.0057,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2015,46.8361,45.4494,48.2542,,,,,,Ovary
+Female,Non-Hispanic White,Ages 75+,2016,47.4683,46.0791,48.8884,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,Non-Hispanic White,Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,Non-Hispanic White,Ages < 20,2016,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2000,9.2488,9.0876,9.4123,2000-2005,-0.6623,-1.4409,0.1225,Stable,Ovary
+Female,White (includes Hispanic),All Ages,2001,9.3155,9.1545,9.4787,2005-2016,-2.377,-2.6134,-2.14,Trend is Falling,Ovary
+Female,White (includes Hispanic),All Ages,2002,9.3885,9.2278,9.5514,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2003,9.1895,9.0317,9.3495,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2004,9.0878,8.9317,9.2462,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2005,8.9959,8.8415,9.1523,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2006,8.9453,8.7921,9.1005,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2007,8.6421,8.4929,8.7935,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2008,8.2806,8.1353,8.4279,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2009,8.1463,8.0033,8.2914,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2010,8.1054,7.9633,8.2495,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2011,7.825,7.6863,7.9657,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2012,7.6835,7.547,7.822,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2013,7.5201,7.3862,7.6559,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2014,7.2873,7.1563,7.4203,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2015,6.9797,6.8524,7.109,,,,,,Ovary
+Female,White (includes Hispanic),All Ages,2016,7.0396,6.9124,7.1688,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2000,1.2487,1.1739,1.327,2000-2016,-2.2799,-2.6509,-1.9074,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages < 50,2001,1.2149,1.1415,1.2918,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2002,1.2771,1.2021,1.3556,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2003,1.1702,1.0986,1.2453,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2004,1.176,1.1043,1.2513,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2005,1.1032,1.0338,1.1761,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2006,1.1169,1.0469,1.1904,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2007,1.0082,0.9415,1.0785,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2008,1.0046,0.9375,1.0753,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2009,0.9738,0.9078,1.0434,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2010,0.9975,0.9301,1.0685,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2011,0.9463,0.88,1.0163,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2012,0.9918,0.9236,1.0638,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2013,0.9072,0.8416,0.9765,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2014,0.9363,0.8691,1.0074,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2015,0.8848,0.8193,0.9542,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 50,2016,0.9149,0.8481,0.9855,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2000,16.3908,15.8118,16.9856,2000-2002,2.3015,-5.1976,10.3937,Stable,Ovary
+Female,White (includes Hispanic),Ages 50-64,2001,16.6863,16.1108,17.2771,2002-2016,-2.8834,-3.2195,-2.5461,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 50-64,2002,16.9219,16.3532,17.5054,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2003,16.6263,16.0734,17.1934,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2004,15.552,15.0263,16.0915,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2005,16.3688,15.8384,16.9124,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2006,15.6477,15.137,16.1712,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2007,14.6328,14.1482,15.1298,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2008,13.9464,13.4792,14.4257,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2009,14.3794,13.9114,14.8592,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2010,13.4047,12.9592,13.8617,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2011,13.1866,12.7494,13.6352,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2012,12.932,12.5007,13.3744,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2013,12.4644,12.0414,12.8985,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2014,11.9547,11.5426,12.3778,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2015,11.4801,11.0781,11.893,,,,,,Ovary
+Female,White (includes Hispanic),Ages 50-64,2016,11.4331,11.032,11.8451,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2000,46.581,45.6,47.5777,2000-2006,-0.4466,-1.1316,0.2432,Stable,Ovary
+Female,White (includes Hispanic),Ages 65+,2001,46.9514,45.9666,47.9518,2006-2016,-2.2462,-2.5623,-1.9291,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 65+,2002,46.8932,45.9096,47.8925,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2003,46.2822,45.3067,47.2734,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2004,46.7187,45.7388,47.7141,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2005,45.4389,44.4753,46.418,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2006,45.8158,44.8506,46.7965,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2007,45.2439,44.2899,46.2131,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2008,43.2182,42.2918,44.1596,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2009,41.8184,40.9122,42.7395,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2010,42.5153,41.6058,43.4396,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2011,40.8487,39.9636,41.7483,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2012,39.7709,38.9083,40.6476,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2013,39.517,38.6677,40.3801,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2014,38.1133,37.2887,38.9514,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2015,36.5377,35.7385,37.3501,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65+,2016,36.8953,36.0998,37.7037,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,White (includes Hispanic),Ages <15,2001,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2002,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2003,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2004,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2005,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2006,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2007,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2008,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2009,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2010,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2011,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2012,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2013,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2014,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2015,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages <15,2016,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2000,0.5497,0.4796,0.6271,2000-2016,-1.2343,-1.9005,-0.5636,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 15-39,2001,0.5432,0.473,0.6208,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2002,0.5874,0.5137,0.6686,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2003,0.5035,0.4349,0.5798,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2004,0.5087,0.4392,0.5859,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2005,0.4574,0.3915,0.5311,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2006,0.5005,0.4312,0.5776,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2007,0.4524,0.3868,0.5258,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2008,0.4673,0.4001,0.5423,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2009,0.4241,0.3603,0.4958,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2010,0.4468,0.3812,0.5204,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2011,0.4989,0.4283,0.5775,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2012,0.4514,0.3848,0.5259,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2013,0.4505,0.3837,0.5253,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2014,0.4737,0.4058,0.5495,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2015,0.4542,0.3882,0.528,,,,,,Ovary
+Female,White (includes Hispanic),Ages 15-39,2016,0.4733,0.4066,0.5476,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2000,10.4155,10.0886,10.7503,2000-2002,1.5161,-4.9743,8.4498,Stable,Ovary
+Female,White (includes Hispanic),Ages 40-64,2001,10.4884,10.1649,10.8197,2002-2016,-2.8339,-3.1373,-2.5296,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 40-64,2002,10.6919,10.3704,11.0208,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2003,10.4017,10.0898,10.7209,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2004,9.8736,9.5736,10.1807,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2005,10.163,9.8631,10.4698,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2006,9.7833,9.4921,10.0812,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2007,9.0921,8.8151,9.3757,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2008,8.7181,8.4487,8.9942,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2009,8.9089,8.6395,9.1847,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2010,8.4609,8.1996,8.7287,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2011,8.1675,7.9132,8.4282,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2012,8.2058,7.9494,8.4685,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2013,7.7807,7.5318,8.0361,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2014,7.5746,7.3279,7.8278,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2015,7.2281,6.9876,7.475,,,,,,Ovary
+Female,White (includes Hispanic),Ages 40-64,2016,7.2636,7.0216,7.5121,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2000,36.9933,35.73,38.2899,2000-2006,-0.3208,-1.2913,0.6593,Stable,Ovary
+Female,White (includes Hispanic),Ages 65-74,2001,37.8001,36.5188,39.115,2006-2016,-2.7441,-3.1753,-2.3109,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 65-74,2002,37.4497,36.17,38.7631,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2003,36.8927,35.6217,38.1975,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2004,37.8644,36.5774,39.1851,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2005,36.3621,35.1029,37.6548,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2006,36.6993,35.44,37.992,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2007,36.2544,35.0145,37.5271,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2008,34.4813,33.2916,35.7025,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2009,33.259,32.1069,34.4417,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2010,33.7418,32.5946,34.919,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2011,31.8441,30.7446,32.9727,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2012,30.3857,29.3426,31.4562,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2013,30.9351,29.9043,31.9922,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2014,29.5496,28.5644,30.5601,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2015,27.973,27.0313,28.9391,,,,,,Ovary
+Female,White (includes Hispanic),Ages 65-74,2016,28.29,27.3573,29.2463,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2000,57.072,55.5584,58.6161,2000-2006,-0.5346,-1.1486,0.0831,Stable,Ovary
+Female,White (includes Hispanic),Ages 75+,2001,56.9648,55.4588,58.5012,2006-2016,-1.8967,-2.1884,-1.6041,Trend is Falling,Ovary
+Female,White (includes Hispanic),Ages 75+,2002,57.2264,55.7221,58.7609,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2003,56.5564,55.0663,58.0764,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2004,56.4071,54.921,57.9231,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2005,55.3709,53.9029,56.8684,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2006,55.7913,54.3187,57.2934,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2007,55.0802,53.6201,56.5699,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2008,52.7783,51.3457,54.2404,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2009,51.1843,49.7715,52.6268,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2010,52.1155,50.6887,53.5719,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2011,50.7017,49.297,52.1359,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2012,50.0403,48.6454,51.4647,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2013,48.9075,47.5373,50.3068,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2014,47.4838,46.1397,48.8569,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2015,45.9092,44.595,47.2521,,,,,,Ovary
+Female,White (includes Hispanic),Ages 75+,2016,46.3112,44.9993,47.6515,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2000,-,-,-,2000-2016,-,-,-,-,Ovary
+Female,White (includes Hispanic),Ages < 20,2001,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2002,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2003,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2004,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2005,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2006,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2007,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2008,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2009,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2010,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2011,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2012,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2013,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2014,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2015,-,-,-,,,,,,Ovary
+Female,White (includes Hispanic),Ages < 20,2016,-,-,-,,,,,,Ovary
