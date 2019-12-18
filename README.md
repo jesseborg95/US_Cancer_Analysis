@@ -1,11 +1,11 @@
 # US Cancer Analysis
-Group project using R to analyze BRFSS Data from 2013. Exploratory data analysis, hypothesis testing, regression and model building.
+Group project using Python to analyze US Cancer Data between 2000 and 2016 inclusive. Exploratory data analysis, data mining and data cleaning.
 
 ## Motivation
 I performed this project for my Intro to Data Mining class at The George Washington University. The requirements for the project were to perform exploratory data analysis and gain important information and insights, using a sizable dataset of your choice using Python.
 
 ## Data Source
-I chose to analyze the crime in Washington DC using a data set I found on Kaggle (https://www.kaggle.com/).
+I chose to analyze the US Cancer Data multiple a datasets obtained from the CDC (https://www.cdc.gov/cancer/).
 
 ## Using the Files
 The .csv files show the raw data used for the project. The crime data was too large, so I zipped it before uploading.
