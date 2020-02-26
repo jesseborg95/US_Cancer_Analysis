@@ -10,4 +10,4 @@ I chose to analyze the US Cancer Data multiple a datasets obtained from the CDC 
 ## Using the Files
 The .csv files show the raw data used for the project. The crime data was too large, so I zipped it before uploading.
 The .ipynb file shows all of my code. This file can be downloaded and ran to get the final output.
-The .html file is the html version of my final report. Look at this if you are only interested in the output of the analysis. To view the html file, go to http://htmlpreview.github.io/?https://github.com/jesseborg95/Crime_In_DC_Analysis/blob/master/Crime_in_DC_Analysis.html
+The .html file is the html version of my final report. Look at this if you are only interested in the output of the analysis. To view the html file, go to https://htmlpreview.github.io/?https://github.com/jesseborg95/US_Cancer_Analysis/blob/master/US_Cancer_Analysis.html
