@@ -1,5 +1,5 @@
 # US Cancer Analysis
-Group project using Python to analyze US Cancer Data between 2000 and 2016 inclusive. Exploratory data analysis, data mining and data cleaning.
+Individual project using Python to analyze US Cancer Data between 2000 and 2016 inclusive. Exploratory data analysis, data mining and data cleaning.
 
 ## Motivation
 I performed this project for my Intro to Data Mining class at The George Washington University. The requirements for the project were to perform exploratory data analysis and gain important information and insights, using a sizable dataset of your choice using Python.
